@@ -26,8 +26,8 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
 }
 
-def siteUrl = 'https://github.com/saiwu-bigkoo/Android-SVProgressHUD'                        // #CONFIG# // project homepage
-def gitUrl = 'https://github.com/saiwu-bigkoo/Android-SVProgressHUD.git'                     // #CONFIG# // project git
+def siteUrl = 'https://github.com/ysj0816/SVProgressHUD'                        // #CONFIG# // project homepage
+def gitUrl = 'https://github.com/ysj0816/SVProgressHUD.git'                     // #CONFIG# // project git
 group = "com.bigkoo"
 
 //install {
